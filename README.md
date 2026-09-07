@@ -1,4 +1,4 @@
-# Olá a todos 👋 <!-- Me chamo **renataolivsouza91/renataolivsouza91** is a ✨ _special_ ✨  
+# Olá a todos 👋 <!-- ✨ Me chamo *Renata* ✨  
 - 🔭 Estudante de Desenvolvimento de Sistemas
 -  🖥 Entusiasta de Python e HTML
 - 📚 Me preparando para o mercado de tecnologia
