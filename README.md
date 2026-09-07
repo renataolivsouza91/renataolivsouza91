@@ -1,5 +1,4 @@
-# Olá a todos 👋 
-✨ Me chamo *Renata* ✨  
+ ✨ # Olá, me chamo *Renata* ✨  
 - 🔭 Estudante de Desenvolvimento de Sistemas
 -  🖥 Entusiasta de Python e HTML
 - 📚 Me preparando para o mercado de tecnologia
